@@ -4,7 +4,7 @@
   
   <br>
   <h1>📊 Profesyonel Kurumsal Yönetim Paneli Sistemi</h1>
-  <p><strong>Şirketinizin tüm operasyonlarını tek bir merkezden yönetin! Flutter Web teknolojisi ile geliştirilmiş, modern, hızlı ve tamamen duyarlı (responsive) admin paneli çözümü.</strong></p>
+  <p><strong>Şirketinizin tüm operasyonlarını tek bir merkezden yönetin! Flutter Web teknolojisi ile geliştirilmiş, modern, hızlı ve tamamen duyarlı (responsive) yönetim paneli çözümü.</strong></p>
 
   <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
